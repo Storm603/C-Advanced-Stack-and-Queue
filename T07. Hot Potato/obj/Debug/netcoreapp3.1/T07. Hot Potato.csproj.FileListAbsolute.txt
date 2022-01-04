@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.exe
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.deps.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\bin\Debug\netcoreapp3.1\T07. Hot Potato.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T07. Hot Potato\obj\Debug\netcoreapp3.1\T07. Hot Potato.genruntimeconfig.cache

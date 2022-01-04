@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.exe
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.deps.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\bin\Debug\netcoreapp3.1\T08. Traffic Jam.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T08. Traffic Jam\obj\Debug\netcoreapp3.1\T08. Traffic Jam.genruntimeconfig.cache
