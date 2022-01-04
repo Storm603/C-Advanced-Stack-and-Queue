@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.exe
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.deps.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\bin\Debug\netcoreapp3.1\T03. Simple Calculator.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\T03. Simple Calculator\obj\Debug\netcoreapp3.1\T03. Simple Calculator.genruntimeconfig.cache
