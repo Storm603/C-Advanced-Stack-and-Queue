@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.exe
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.deps.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\bin\Debug\netcoreapp3.1\Stack and Queue.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.dll
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.pdb
+C:\Users\Kristiyan\source\repos\T01. Reverse Strings\Stack and Queue\obj\Debug\netcoreapp3.1\Stack and Queue.genruntimeconfig.cache
